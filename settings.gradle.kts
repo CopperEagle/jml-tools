@@ -3,7 +3,6 @@ plugins {
 }
 rootProject.name = "jml-tools"
 include("prettyprinting")
-include("lint")
 include("smt")
 include("wd")
 include("jml2java")
